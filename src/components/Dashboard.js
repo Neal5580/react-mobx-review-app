@@ -44,5 +44,4 @@ function Dashboard({ store }) {
         </div>
     );
 }
-
 export default observer(Dashboard);
